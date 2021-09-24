@@ -18,6 +18,8 @@ from pynput.keyboard import Key, Listener
 from config_operate import load_config, load_sys_config
 from core.Lidar_core import downsample_circle, lidar_movement, isinPolygon, clouds_range_no_ground
 
+print("git test")
+
 i32 = "l" if 'win' in sys.platform else "i"
 i16 = "h"
 
