@@ -1,0 +1,1154 @@
+[2021-06-25 20:20:42.635][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:42.635][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[81]
+[2021-06-25 20:20:42.635][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:42.637][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:42.638][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37152
+[2021-06-25 20:20:42.638][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:42.643][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37154
+[2021-06-25 20:20:42.644][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:42.644][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[82]
+[2021-06-25 20:20:42.644][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:42.646][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:42.646][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37156
+[2021-06-25 20:20:42.646][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:42.657][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37158
+[2021-06-25 20:20:42.659][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:42.659][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[83]
+[2021-06-25 20:20:42.659][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:42.660][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:42.661][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37160
+[2021-06-25 20:20:42.661][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:42.666][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37162
+[2021-06-25 20:20:43.002][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.002][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[84]
+[2021-06-25 20:20:43.002][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:43.004][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.004][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37164
+[2021-06-25 20:20:43.004][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.010][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37166
+[2021-06-25 20:20:43.011][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.011][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[85]
+[2021-06-25 20:20:43.011][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:43.013][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.013][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37168
+[2021-06-25 20:20:43.013][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.024][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37170
+[2021-06-25 20:20:43.024][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.024][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[86]
+[2021-06-25 20:20:43.024][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:43.026][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.026][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37172
+[2021-06-25 20:20:43.026][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.032][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37174
+[2021-06-25 20:20:43.033][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.033][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[87]
+[2021-06-25 20:20:43.033][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:43.034][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.034][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37176
+[2021-06-25 20:20:43.034][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.376][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37178
+[2021-06-25 20:20:43.377][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.377][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[88]
+[2021-06-25 20:20:43.377][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:43.378][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.379][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37180
+[2021-06-25 20:20:43.379][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.389][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37182
+[2021-06-25 20:20:43.390][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.390][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[89]
+[2021-06-25 20:20:43.390][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:43.392][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.392][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37184
+[2021-06-25 20:20:43.392][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.398][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37186
+[2021-06-25 20:20:43.400][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.400][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[90]
+[2021-06-25 20:20:43.400][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:43.401][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.402][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37188
+[2021-06-25 20:20:43.402][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.744][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37190
+[2021-06-25 20:20:43.745][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.745][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[91]
+[2021-06-25 20:20:43.745][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:43.746][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.747][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37192
+[2021-06-25 20:20:43.747][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.758][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37194
+[2021-06-25 20:20:43.759][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.759][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[92]
+[2021-06-25 20:20:43.759][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:43.761][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.761][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37196
+[2021-06-25 20:20:43.761][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:43.767][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37198
+[2021-06-25 20:20:43.768][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:43.768][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[93]
+[2021-06-25 20:20:43.768][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:43.770][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:43.770][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37200
+[2021-06-25 20:20:43.770][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.112][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37202
+[2021-06-25 20:20:44.113][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.113][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[94]
+[2021-06-25 20:20:44.113][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:44.114][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.115][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37204
+[2021-06-25 20:20:44.115][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.125][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37206
+[2021-06-25 20:20:44.127][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.127][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[95]
+[2021-06-25 20:20:44.127][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:44.129][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.130][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37208
+[2021-06-25 20:20:44.130][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.135][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37210
+[2021-06-25 20:20:44.136][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.136][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[96]
+[2021-06-25 20:20:44.136][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:44.138][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.138][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37212
+[2021-06-25 20:20:44.138][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.480][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37214
+[2021-06-25 20:20:44.481][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.481][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[97]
+[2021-06-25 20:20:44.481][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:44.482][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.484][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37216
+[2021-06-25 20:20:44.484][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.493][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37218
+[2021-06-25 20:20:44.495][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.495][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[98]
+[2021-06-25 20:20:44.495][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:44.496][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.497][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37220
+[2021-06-25 20:20:44.497][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.503][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37222
+[2021-06-25 20:20:44.504][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.504][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[99]
+[2021-06-25 20:20:44.504][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:44.506][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.507][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37224
+[2021-06-25 20:20:44.507][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.512][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37226
+[2021-06-25 20:20:44.848][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.848][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[100]
+[2021-06-25 20:20:44.848][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:44.850][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.854][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37228
+[2021-06-25 20:20:44.854][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.861][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37230
+[2021-06-25 20:20:44.862][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.862][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[101]
+[2021-06-25 20:20:44.862][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:44.864][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.865][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37232
+[2021-06-25 20:20:44.865][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.869][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37234
+[2021-06-25 20:20:44.870][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:44.870][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[102]
+[2021-06-25 20:20:44.870][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:44.872][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:44.873][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37236
+[2021-06-25 20:20:44.873][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:44.878][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37238
+[2021-06-25 20:20:45.215][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.215][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[103]
+[2021-06-25 20:20:45.215][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:45.217][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.218][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37240
+[2021-06-25 20:20:45.218][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.227][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37242
+[2021-06-25 20:20:45.228][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.228][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[104]
+[2021-06-25 20:20:45.228][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:45.230][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.231][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37244
+[2021-06-25 20:20:45.231][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.236][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37246
+[2021-06-25 20:20:45.238][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.238][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[105]
+[2021-06-25 20:20:45.238][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:45.239][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.239][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37248
+[2021-06-25 20:20:45.239][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.246][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37250
+[2021-06-25 20:20:45.583][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.583][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[106]
+[2021-06-25 20:20:45.583][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:45.584][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.585][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37252
+[2021-06-25 20:20:45.585][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.594][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37254
+[2021-06-25 20:20:45.596][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.596][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[107]
+[2021-06-25 20:20:45.596][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:45.597][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.598][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37256
+[2021-06-25 20:20:45.598][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.604][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37258
+[2021-06-25 20:20:45.605][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.605][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[108]
+[2021-06-25 20:20:45.605][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:45.606][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.607][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37260
+[2021-06-25 20:20:45.607][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.613][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37262
+[2021-06-25 20:20:45.949][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.949][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[109]
+[2021-06-25 20:20:45.949][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:45.950][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.952][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37264
+[2021-06-25 20:20:45.952][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.962][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37266
+[2021-06-25 20:20:45.964][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.964][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[110]
+[2021-06-25 20:20:45.964][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:45.966][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.967][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37268
+[2021-06-25 20:20:45.967][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.972][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37270
+[2021-06-25 20:20:45.973][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:45.973][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[111]
+[2021-06-25 20:20:45.973][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:45.974][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:45.975][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37272
+[2021-06-25 20:20:45.975][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:45.980][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37274
+[2021-06-25 20:20:46.317][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:46.317][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[112]
+[2021-06-25 20:20:46.317][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:46.318][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:46.320][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37276
+[2021-06-25 20:20:46.320][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:46.329][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37278
+[2021-06-25 20:20:46.331][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:46.331][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[113]
+[2021-06-25 20:20:46.331][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:46.332][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:46.333][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37280
+[2021-06-25 20:20:46.333][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:46.339][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37282
+[2021-06-25 20:20:46.340][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:46.340][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[114]
+[2021-06-25 20:20:46.340][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:46.341][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:46.342][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37284
+[2021-06-25 20:20:46.342][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:46.346][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37286
+[2021-06-25 20:20:46.683][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:46.683][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[115]
+[2021-06-25 20:20:46.683][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:46.685][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:46.687][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37288
+[2021-06-25 20:20:46.687][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:46.696][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37290
+[2021-06-25 20:20:46.698][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:46.698][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[116]
+[2021-06-25 20:20:46.698][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:46.700][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:46.701][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37292
+[2021-06-25 20:20:46.701][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:46.706][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37294
+[2021-06-25 20:20:46.707][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:46.707][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[117]
+[2021-06-25 20:20:46.707][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:46.709][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:46.710][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37296
+[2021-06-25 20:20:46.710][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:46.716][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37298
+[2021-06-25 20:20:47.052][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.052][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[118]
+[2021-06-25 20:20:47.052][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:47.054][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.054][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37300
+[2021-06-25 20:20:47.054][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.064][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37302
+[2021-06-25 20:20:47.065][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.065][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[119]
+[2021-06-25 20:20:47.065][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:47.066][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.067][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37304
+[2021-06-25 20:20:47.067][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.073][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37306
+[2021-06-25 20:20:47.074][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.074][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[120]
+[2021-06-25 20:20:47.074][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:47.075][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.076][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37308
+[2021-06-25 20:20:47.076][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.081][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37310
+[2021-06-25 20:20:47.418][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.418][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[121]
+[2021-06-25 20:20:47.418][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:47.420][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.421][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37312
+[2021-06-25 20:20:47.421][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.431][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37314
+[2021-06-25 20:20:47.432][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.432][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[122]
+[2021-06-25 20:20:47.432][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:47.434][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.434][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37316
+[2021-06-25 20:20:47.434][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.440][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37318
+[2021-06-25 20:20:47.441][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.441][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[123]
+[2021-06-25 20:20:47.441][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:47.442][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.443][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37320
+[2021-06-25 20:20:47.443][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.448][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37322
+[2021-06-25 20:20:47.786][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.786][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[124]
+[2021-06-25 20:20:47.786][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:47.787][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.788][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37324
+[2021-06-25 20:20:47.788][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.797][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37326
+[2021-06-25 20:20:47.798][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.798][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[125]
+[2021-06-25 20:20:47.798][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:47.800][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.801][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37328
+[2021-06-25 20:20:47.801][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.807][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37330
+[2021-06-25 20:20:47.808][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[18] CommandThread callback exception
+[2021-06-25 20:20:47.808][ERR] ID-IP-CHAN[20-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[126]
+[2021-06-25 20:20:47.808][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[20]
+[2021-06-25 20:20:47.809][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:47.810][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37332
+[2021-06-25 20:20:47.810][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:47.815][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x30000 port=37334
+[2021-06-25 20:20:48.152][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CGetTCPStream::LinkToDvr] struOut.dwDevState[30] CommandThread callback exception
+[2021-06-25 20:20:48.153][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37336
+[2021-06-25 20:20:48.153][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.162][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.162][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.162][ERR] ID-IP-CHAN[21-192.168.6.212-1] [CPreviewSession::AllResourceStarWork] StreamGetterStartWork Failed, UserID[127]
+[2021-06-25 20:20:48.162][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[21]
+[2021-06-25 20:20:48.163][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.164][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37338
+[2021-06-25 20:20:48.164][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.169][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.169][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.169][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:48.171][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.172][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37340
+[2021-06-25 20:20:48.172][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.176][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.176][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.176][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:48.178][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.178][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37342
+[2021-06-25 20:20:48.178][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.183][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.183][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.183][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:48.185][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.185][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37344
+[2021-06-25 20:20:48.185][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.529][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.529][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.529][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:48.531][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.532][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37346
+[2021-06-25 20:20:48.532][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.537][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.537][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.537][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:48.538][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.539][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37348
+[2021-06-25 20:20:48.539][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.544][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.544][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.544][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:48.545][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.546][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37350
+[2021-06-25 20:20:48.546][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.550][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.550][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.550][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:48.551][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.552][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37352
+[2021-06-25 20:20:48.552][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.897][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.897][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.897][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:48.898][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.899][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37354
+[2021-06-25 20:20:48.899][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.905][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.905][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.905][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:48.906][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.907][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37356
+[2021-06-25 20:20:48.907][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.911][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.911][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.911][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:48.912][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.913][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37358
+[2021-06-25 20:20:48.913][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.918][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.918][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.918][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:48.919][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.920][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37360
+[2021-06-25 20:20:48.920][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:48.929][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:48.929][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:48.929][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:48.930][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:48.931][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37362
+[2021-06-25 20:20:48.931][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.272][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.272][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.272][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:49.273][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.274][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37364
+[2021-06-25 20:20:49.274][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.278][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.278][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.278][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:49.279][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.280][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37366
+[2021-06-25 20:20:49.280][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.284][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.284][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.284][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:49.286][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.287][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37368
+[2021-06-25 20:20:49.287][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.297][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.297][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.297][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:49.298][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.299][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37370
+[2021-06-25 20:20:49.299][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.305][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.305][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.305][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:49.306][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.307][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37372
+[2021-06-25 20:20:49.307][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.647][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.647][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.647][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:49.649][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.650][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37374
+[2021-06-25 20:20:49.650][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.654][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.654][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.654][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:49.655][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.656][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37376
+[2021-06-25 20:20:49.656][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.665][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.665][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.665][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:49.667][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.667][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37378
+[2021-06-25 20:20:49.667][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.672][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.672][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.672][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:49.674][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.674][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37380
+[2021-06-25 20:20:49.674][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:49.679][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:49.679][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:49.679][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:49.680][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:49.681][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37382
+[2021-06-25 20:20:49.681][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.021][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.021][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.021][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.022][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.023][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37384
+[2021-06-25 20:20:50.023][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.033][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.033][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.033][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.036][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.036][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37386
+[2021-06-25 20:20:50.036][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.041][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.041][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.041][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.043][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.043][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37388
+[2021-06-25 20:20:50.043][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.047][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.047][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.047][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.049][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.050][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37390
+[2021-06-25 20:20:50.050][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.054][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.054][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.054][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.056][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.056][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37392
+[2021-06-25 20:20:50.056][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.401][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.401][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.401][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.403][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.404][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37394
+[2021-06-25 20:20:50.404][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.409][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.409][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.409][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.410][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.411][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37396
+[2021-06-25 20:20:50.411][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.415][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.415][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.415][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.417][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.418][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37398
+[2021-06-25 20:20:50.418][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.422][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.422][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.422][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.423][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.425][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37400
+[2021-06-25 20:20:50.425][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.434][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.434][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.434][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.436][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.437][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37402
+[2021-06-25 20:20:50.437][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.441][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.441][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.441][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.443][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.444][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37404
+[2021-06-25 20:20:50.444][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.784][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.784][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.784][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.785][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.786][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37406
+[2021-06-25 20:20:50.786][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.790][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.790][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.790][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.791][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.793][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37408
+[2021-06-25 20:20:50.793][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.800][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.800][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.800][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.802][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.802][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37410
+[2021-06-25 20:20:50.802][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.807][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.807][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.807][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:50.808][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.809][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37412
+[2021-06-25 20:20:50.809][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:50.814][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:50.814][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:50.814][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:50.815][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:50.816][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37414
+[2021-06-25 20:20:50.816][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.157][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.157][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.157][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.158][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.160][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37416
+[2021-06-25 20:20:51.160][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.168][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.168][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.168][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.170][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.170][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37418
+[2021-06-25 20:20:51.170][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.175][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.175][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.175][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.177][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.178][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37420
+[2021-06-25 20:20:51.178][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.182][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.182][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.182][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.184][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.184][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37422
+[2021-06-25 20:20:51.184][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.189][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.189][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.189][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.190][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.191][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37424
+[2021-06-25 20:20:51.191][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.536][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.536][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.536][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.537][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.538][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37426
+[2021-06-25 20:20:51.538][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.543][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.543][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.543][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.544][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.545][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37428
+[2021-06-25 20:20:51.545][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.549][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.549][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.549][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.551][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.552][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37430
+[2021-06-25 20:20:51.552][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.556][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.556][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.556][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.557][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.558][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37432
+[2021-06-25 20:20:51.558][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.568][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.568][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.568][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.570][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.570][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37434
+[2021-06-25 20:20:51.571][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.911][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.911][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.911][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.912][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.913][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37436
+[2021-06-25 20:20:51.913][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.917][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.917][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.917][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.919][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.919][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37438
+[2021-06-25 20:20:51.919][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.924][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.924][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.924][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.925][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.928][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37440
+[2021-06-25 20:20:51.928][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.935][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.935][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.935][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.937][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.938][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37442
+[2021-06-25 20:20:51.938][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.942][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.942][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.942][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:51.943][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.944][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37444
+[2021-06-25 20:20:51.944][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:51.949][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:51.949][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:51.949][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:51.950][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:51.951][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37446
+[2021-06-25 20:20:51.951][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.291][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.291][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.291][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:52.293][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.295][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37448
+[2021-06-25 20:20:52.295][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.303][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.303][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.303][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:52.304][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.305][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37450
+[2021-06-25 20:20:52.305][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.310][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.310][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.310][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:52.311][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.312][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37452
+[2021-06-25 20:20:52.312][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.316][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.316][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.316][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:52.318][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.319][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37454
+[2021-06-25 20:20:52.319][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.323][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.323][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.323][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:52.325][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.325][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37456
+[2021-06-25 20:20:52.325][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.669][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.669][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.669][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:52.671][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.671][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37458
+[2021-06-25 20:20:52.671][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.677][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.677][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.677][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:52.678][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.679][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37460
+[2021-06-25 20:20:52.679][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.683][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.683][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.683][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:52.684][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.685][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37462
+[2021-06-25 20:20:52.685][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.690][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.690][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.690][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:52.691][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.692][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37464
+[2021-06-25 20:20:52.692][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:52.702][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:52.702][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:52.702][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:52.703][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:52.704][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37466
+[2021-06-25 20:20:52.704][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.045][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.045][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.045][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.047][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.047][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37468
+[2021-06-25 20:20:53.047][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.052][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.052][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.052][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.053][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.054][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37470
+[2021-06-25 20:20:53.054][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.059][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.059][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.059][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.060][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.062][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37472
+[2021-06-25 20:20:53.062][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.070][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.070][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.070][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.072][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.072][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37474
+[2021-06-25 20:20:53.072][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.077][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.077][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.077][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.079][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.079][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37476
+[2021-06-25 20:20:53.079][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.420][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.420][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.420][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.421][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.422][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37478
+[2021-06-25 20:20:53.422][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.427][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.427][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.427][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.428][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.430][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37480
+[2021-06-25 20:20:53.430][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.438][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.438][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.438][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.440][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.440][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37482
+[2021-06-25 20:20:53.440][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.445][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.445][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.445][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.446][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.447][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37484
+[2021-06-25 20:20:53.448][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.452][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.452][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.452][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.453][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.454][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37486
+[2021-06-25 20:20:53.454][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.794][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.794][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.794][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.795][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.797][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37488
+[2021-06-25 20:20:53.797][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.804][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.804][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.804][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.806][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.807][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37490
+[2021-06-25 20:20:53.807][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.811][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.811][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.811][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.813][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.814][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37492
+[2021-06-25 20:20:53.814][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.819][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.819][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.819][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.820][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.821][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37494
+[2021-06-25 20:20:53.821][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.826][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.826][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.826][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:53.828][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.828][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37496
+[2021-06-25 20:20:53.828][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:53.838][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:53.838][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:53.838][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:53.839][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:53.840][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37498
+[2021-06-25 20:20:53.840][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.182][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.182][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.182][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.183][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.184][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37500
+[2021-06-25 20:20:54.184][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.188][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.188][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.188][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.189][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.190][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37502
+[2021-06-25 20:20:54.190][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.194][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.194][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.194][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.196][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.197][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37504
+[2021-06-25 20:20:54.197][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.205][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.205][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.205][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.206][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.207][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37506
+[2021-06-25 20:20:54.207][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.212][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.212][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.212][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.213][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.214][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37508
+[2021-06-25 20:20:54.214][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.554][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.554][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.554][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.555][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.556][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37510
+[2021-06-25 20:20:54.556][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.561][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.561][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.561][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.562][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.562][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37512
+[2021-06-25 20:20:54.562][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.572][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.572][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.572][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.574][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.575][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37514
+[2021-06-25 20:20:54.575][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.579][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.579][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.579][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.580][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.581][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37516
+[2021-06-25 20:20:54.581][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.585][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.585][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.585][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.587][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.588][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37518
+[2021-06-25 20:20:54.588][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.928][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.928][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.928][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.930][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.932][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37520
+[2021-06-25 20:20:54.932][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.941][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.941][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.941][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.945][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.946][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37522
+[2021-06-25 20:20:54.946][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.951][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.951][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.951][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.952][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.953][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37524
+[2021-06-25 20:20:54.953][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.958][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.958][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.958][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.959][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.960][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37526
+[2021-06-25 20:20:54.960][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.969][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.969][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.969][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:54.970][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.971][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37528
+[2021-06-25 20:20:54.971][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:54.977][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:54.977][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:54.977][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:54.978][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:54.978][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37530
+[2021-06-25 20:20:54.978][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.317][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.317][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.317][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:55.319][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.320][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37532
+[2021-06-25 20:20:55.320][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.324][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.324][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.324][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:55.325][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.326][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37534
+[2021-06-25 20:20:55.326][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.331][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.331][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.331][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:55.332][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.333][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37536
+[2021-06-25 20:20:55.333][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.341][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.341][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.342][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:55.343][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.344][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37538
+[2021-06-25 20:20:55.344][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.348][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.348][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.348][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:55.350][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.351][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37540
+[2021-06-25 20:20:55.351][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.694][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.694][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.694][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:55.695][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.696][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37542
+[2021-06-25 20:20:55.696][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.704][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.704][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.704][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:55.706][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.707][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37544
+[2021-06-25 20:20:55.707][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.711][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.711][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.711][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:55.712][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.714][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37546
+[2021-06-25 20:20:55.714][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.718][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.718][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.718][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:55.719][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.720][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37548
+[2021-06-25 20:20:55.720][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:55.725][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:55.725][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:55.725][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:55.726][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:55.727][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37550
+[2021-06-25 20:20:55.727][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.070][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.070][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.070][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.071][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.072][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37552
+[2021-06-25 20:20:56.072][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.078][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.078][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.078][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.079][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.080][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37554
+[2021-06-25 20:20:56.080][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.085][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.085][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.085][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.087][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.087][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37556
+[2021-06-25 20:20:56.087][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.092][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.092][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.092][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.093][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.094][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37558
+[2021-06-25 20:20:56.094][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.098][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.098][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.098][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.100][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.101][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37560
+[2021-06-25 20:20:56.101][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.445][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.445][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.445][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.447][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.448][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37562
+[2021-06-25 20:20:56.448][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.452][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.452][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.452][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.454][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.454][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37564
+[2021-06-25 20:20:56.455][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.458][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.458][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.458][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.460][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.461][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37566
+[2021-06-25 20:20:56.461][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.465][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.465][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.465][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.466][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.467][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37568
+[2021-06-25 20:20:56.467][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.476][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.476][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.476][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.478][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.479][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37570
+[2021-06-25 20:20:56.479][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.820][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.820][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.820][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.821][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.822][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37572
+[2021-06-25 20:20:56.822][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.827][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.827][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.827][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.828][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.829][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37574
+[2021-06-25 20:20:56.829][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.838][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.838][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.838][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.840][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.841][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37576
+[2021-06-25 20:20:56.841][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.846][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.846][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.846][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.847][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.848][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37578
+[2021-06-25 20:20:56.848][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.853][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.853][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.853][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:56.855][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.855][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37580
+[2021-06-25 20:20:56.855][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:56.860][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:56.860][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:56.860][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:56.862][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:56.862][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37582
+[2021-06-25 20:20:56.862][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.207][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.207][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.207][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.209][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.210][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37584
+[2021-06-25 20:20:57.210][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.216][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.216][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.216][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:57.217][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.217][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37586
+[2021-06-25 20:20:57.217][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.222][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.222][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.222][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.223][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.224][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37588
+[2021-06-25 20:20:57.224][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.229][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.229][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.229][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:57.230][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.231][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37590
+[2021-06-25 20:20:57.231][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.240][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.240][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.240][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.241][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.242][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37592
+[2021-06-25 20:20:57.242][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.583][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.583][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.583][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:57.585][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.585][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37594
+[2021-06-25 20:20:57.585][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.590][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.590][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.590][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.591][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.592][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37596
+[2021-06-25 20:20:57.592][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.596][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.596][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.596][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:57.598][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.599][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37598
+[2021-06-25 20:20:57.599][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.608][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.608][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.608][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.609][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.609][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37600
+[2021-06-25 20:20:57.609][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.614][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.614][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.614][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:57.615][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.616][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37602
+[2021-06-25 20:20:57.616][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.956][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.956][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.956][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.957][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.958][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37604
+[2021-06-25 20:20:57.958][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.963][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.963][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.963][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:57.964][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.965][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37606
+[2021-06-25 20:20:57.965][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.973][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.973][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.973][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.975][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.976][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37608
+[2021-06-25 20:20:57.976][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.981][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.981][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.981][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[129]
+[2021-06-25 20:20:57.983][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.983][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37610
+[2021-06-25 20:20:57.984][INF] LogonDev1 in[192.168.6.212:8000]
+[2021-06-25 20:20:57.988][ERR] LogonDev1[192.168.6.212]
+[2021-06-25 20:20:57.988][ERR] [192.168.6.212:8000]PRO_LoginHikDevice fail[err=52].
+[2021-06-25 20:20:57.988][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[128]
+[2021-06-25 20:20:57.989][INF] Login dev 192.168.6.212:8000.
+[2021-06-25 20:20:57.990][INF] Private connect 192.168.6.212:8000 sock=85 this=0xbc4f4d34 cmd=0x10000 port=37612
+[2021-06-25 20:20:57.990][INF] LogonDev1 in[192.168.6.212:8000]

@@ -1,0 +1,30 @@
+<system>
+	<edg>
+        <id>K995ES6004</id>
+        <supplier>caeri</supplier>
+	    <type>IPC</type>    <!--   GPU or IPC   -->
+	    <sn>K9595ES6004</sn>    <!--   factory ID/name  -->
+        <name>EDG010500007</name>    <!--   business ID/name  -->
+        <host_IP>172.16.11.151</host_IP>    <!--   IP in LAN  -->
+        <softwareVersion>v1</softwareVersion>
+        <hardwareVersion>v1</hardwareVersion>
+        <webVersion>v1</webVersion>
+        <Project_ID>CQXDQ1</Project_ID>     <!--   Project Name  -->
+        <CNODE>CNODE0000007</CNODE>   <!--   map to a local  -->
+	</edg>
+
+        <gpu>
+            <gpu_IP>127.0.0.1</gpu_IP>    <!--   IP of GPU_server, commen is the host IP  -->
+            <gevent_num>4</gevent_num>    <!--   the max channel nums of the GPU could process -->
+            <model_name>yolov3-tiny_xdq_test5.pt</model_name>
+            <threshold>0.3</threshold>
+        </gpu>
+
+        <mqtt>
+            <APP_IP>jetlinks-cqxdq.i-vista.org</APP_IP>
+            <APP_Port>11889</APP_Port>
+            <mqtt_IP>172.16.11.136</mqtt_IP>
+            <mqtt_Port>1883</mqtt_Port>
+        </mqtt>
+        	
+</system>

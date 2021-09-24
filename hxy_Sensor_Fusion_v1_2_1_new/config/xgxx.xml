@@ -1,0 +1,32 @@
+<location name="xgxx">
+	<Map_area>
+		<x_lim>642730, 642780</x_lim>
+		<y_lim>3283440, 3283490</y_lim>
+	</Map_area>
+
+	<Sensor type="lidar" ip="172.16.11.134">
+		<name>MLidar_000_00000</name>
+		<usage>C32_151C</usage>    
+		<port>2368</port>		
+		<detect_area>
+			<xmin>   100,   100,   100,   100 </xmin>
+			<xmax>  2200,  3000,  2200,  1500 </xmax>
+			<ymin> -1700,  -951,   600,  1500 </ymin>
+			<ymax>  -950,   600,  1500,  2500 </ymax>
+		</detect_area>
+		<ini_heading>
+			<xmin>       100,   100,   100,   100 </xmin>
+			<xmax>      2200,  3000,  2200,  1500 </xmax>
+			<ymin> 	   -1700,  -951,   600,  1500 </ymin>
+			<ymax>  	-950,   600,  1500,  2500 </ymax>
+			<heading>   -950,   600,  1500,  2500 </heading>
+		</ini_heading>
+		<show_area>False</show_area>
+		<cell_downsample>10</cell_downsample> 
+		<cell_grid>50</cell_grid> 
+		<life_circle>
+			<ini_life>-2</ini_life>
+			<full_life>2</full_life>
+		</life_circle>
+	</Sensor>
+</location>

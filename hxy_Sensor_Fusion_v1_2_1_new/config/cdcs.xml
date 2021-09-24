@@ -1,0 +1,43 @@
+<location name="lrlmX_1">
+	<Sensor type="radar" ip="192.168.6.211">
+		<id>MWR_YH_11116</id>
+		<supplier>hes</supplier>
+		<name>MWR_YH_11116</name>
+		<usage>lane</usage>    <!--   lane or pedstrain, lane first   -->
+		<port>8080</port>
+		<direction>head</direction>
+		<detect_area>
+			<area_radar></area_radar>
+			<xmin>-500</xmin>
+			<xmax>400</xmax>
+			<ymin>4500</ymin>
+			<ymax>15000</ymax>
+		</detect_area>
+		<life_circle>
+			<ini_life>1</ini_life>
+			<full_life>2</full_life>
+		</life_circle>
+	</Sensor>
+
+	<Sensor type="camera" ip="192.168.6.212">
+                <id>172.16.11.123</id>
+                <port>554</port>
+                <supplier>hik</supplier>
+		<name>172.16.11.123</name>
+		<user>admin:hik12345</user>    <!--   user:password   -->
+        	<usage>traffic</usage>    <!--   industrial or traffic   -->
+		<detect_area>
+	 		<area_human>(243,60),(148,183),(571,186),(421,56)</area_human>
+			<area_vehicle>(251,52), (413,50),(612,216),(110,225)</area_vehicle>
+	 	    <x_offset>100</x_offset>    <!--   688, 240, 1920 ,933   -->
+		    <y_offset>0</y_offset>
+		    <ratio>0.75</ratio>
+
+		</detect_area>
+		<life_circle>
+			<ini_life>1</ini_life>
+			<full_life>2</full_life>
+		</life_circle>
+    	</Sensor>
+
+</location>

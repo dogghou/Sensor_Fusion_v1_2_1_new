@@ -1,0 +1,29 @@
+<system>
+	<edg>
+        <id>ota0419</id>
+        <name>ota0419</name>
+        <type>IPC</type>                         
+        <supplier>siteng</supplier>
+        <sn>ota0419</sn>
+        <host_IP>172.16.11.135</host_IP>          
+        <softwareVersion>1.1.1</softwareVersion>
+        <hardwareVersion>V1</hardwareVersion>
+        <webVersion>V1</webVersion>
+        <Project_ID>GQYJY</Project_ID>      
+        <CNODE>tuanjielu</CNODE>               
+    </edg>
+
+    <gpu>
+        <gpu_IP>127.0.0.1</gpu_IP>    
+        <gevent_num>4</gevent_num>    
+        <model_name>yolo3t_xdq5.h5</model_name>
+        <threshold>0.4</threshold>
+    </gpu>
+
+    <mqtt>
+        <APP_IP>10.130.210.87</APP_IP>
+        <APP_Port>1889</APP_Port>
+        <RSU_IP>10.130.210.87</RSU_IP>
+        <RSU_Port>1883</RSU_Port>          
+    </mqtt>
+</system>

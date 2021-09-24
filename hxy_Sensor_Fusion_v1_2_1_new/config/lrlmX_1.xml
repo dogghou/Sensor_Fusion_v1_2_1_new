@@ -1,0 +1,69 @@
+<location name="lrlmX_1">
+	<Sensor type="radar" ip="172.16.11.116">
+		<id>MWR_YH_11116</id>
+		<supplier>MWR_YH_11116</supplier>
+		<name>MWR_YH_11116</name>
+		<usage>lane</usage>    <!--   lane or pedstrain, lane first   -->
+		<port>8081</port>
+		<direction>head</direction>
+		<detect_area>
+			<area_radar>(-500, 4500), (-500, 15000), (400, 15000), (400, 4500)</area_radar>
+			<xmin>-500</xmin>
+			<xmax>400</xmax>
+			<ymin>4500</ymin>
+			<ymax>15000</ymax>
+		</detect_area>
+		<life_circle>
+			<ini_life>-3</ini_life>
+			<full_life>2</full_life>
+		</life_circle>
+	</Sensor>
+	<Sensor type="radar" ip="172.16.11.117">
+		<id>MWR_lrlm_111</id>
+		<supplier>MWR020100008</supplier>
+		<name>MWR020100008</name>
+		<usage>pedstrain</usage>    <!--   lane or pedstrain, lane first   -->
+		<port>8081</port>		
+		<detect_area>
+			<area_radar>(-500, 0), (-500, 1500), (200, 1500), (200, 0)</area_radar>
+			<xmin>-500</xmin>
+			<xmax>200</xmax>
+			<ymin>0</ymin>
+			<ymax>1500</ymax>
+			<vmin>0</vmin>
+			<vmax>1000</vmax>
+		</detect_area>
+		<life_circle>
+			<ini_life>-15</ini_life>
+			<full_life>5</full_life>
+		</life_circle>
+	</Sensor>
+
+
+	<Sensor type="camera" ip="172.16.11.123">
+                <id>172.16.11.123</id>
+                <port>554</port>
+                <supplier>yunyao</supplier>
+		<name>172.16.11.123</name>
+		<user>admin:caeri12345678</user>    <!--   user:password   -->
+        	<usage>traffic</usage>    <!--   industrial or traffic   -->
+		<detect_area>
+	 		<area_human>(275, 185), (505, 190), (535, 205), (275, 205)</area_human>
+			<area_vehicle>(270, 150), (340, 150), (440, 240), (285, 245)</area_vehicle>
+	 	    <x_offset>0</x_offset>    <!--   688, 240, 1920 ,933   -->
+		    <y_offset>0</y_offset>
+                    <x2_offset>0</x2_offset>
+		    <y2_offset>0</y2_offset>
+		    <ratio>0.5</ratio>
+                    <x1>250</x1>
+                    <y1>65</y1>
+                    <x2>280</x2>
+                    <y2>120</y2>
+		</detect_area>
+		<life_circle>
+			<ini_life>0</ini_life>
+			<full_life>2</full_life>
+		</life_circle>
+    	</Sensor>
+
+</location>

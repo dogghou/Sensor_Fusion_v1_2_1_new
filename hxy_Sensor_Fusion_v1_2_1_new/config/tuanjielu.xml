@@ -1,0 +1,40 @@
+<location name="tuanjielu">
+	<Sensor type="camera" ip="10.130.210.30">
+		<id>MC30</id>
+		<port>554</port>
+		<supplier>haikang</supplier>
+		<name>MCamera</name>
+		<usage>traffic</usage>    <!--   industrial or traffic   -->
+		<user>admin:ehl1234.</user>    <!--   user:password   -->
+		<detect_area>
+			<area_human></area_human>
+                        <area_vehicle></area_vehicle>
+			<x_offset>0</x_offset>
+			<y_offset>0</y_offset>
+			<ratio>1</ratio>
+		</detect_area>
+		<life_circle>
+			<ini_life>0</ini_life>
+            <full_life>2</full_life>
+		</life_circle>
+	</Sensor>
+	<Sensor type="camera" ip="10.130.210.31">
+		<id>MC31</id>
+		<port>554</port>
+		<supplier>haikang</supplier>
+		<name>MCamera</name>
+		<usage>traffic</usage>    <!--   industrial or traffic   -->
+		<user>admin:ehl1234.</user>    <!--   user:password   -->
+		<detect_area>
+			<area_human></area_human>
+                        <area_vehicle></area_vehicle>
+			<x_offset>0</x_offset>
+			<y_offset>0</y_offset>
+			<ratio>1</ratio>
+		</detect_area>
+		<life_circle>
+			<ini_life>0</ini_life>
+            <full_life>2</full_life>
+		</life_circle>
+	</Sensor>
+</location>

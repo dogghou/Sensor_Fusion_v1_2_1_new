@@ -1,0 +1,41 @@
+<location name="jylhX_1">
+	<Sensor type="radar" ip="172.16.11.137">
+		<id>MWR_YH_L200I_00000</id>
+		<name>MWR_YH_L200I_00000</name>
+		<supplier>yh</supplier>    <!--   研煌 yh && 惠尔视 hes   -->
+		<usage>lane</usage>    <!--   lane or pedstrain, lane first   -->
+		<port>8081</port>		
+		<detect_area>
+			<area_radar></area_radar>
+			<xmin>-1400</xmin>
+			<xmax>1550</xmax>
+			<ymin>5000</ymin>
+			<ymax>9000</ymax>
+		</detect_area>
+		<life_circle>
+			<ini_life>-3</ini_life>
+			<full_life>2</full_life>
+		</life_circle>
+	</Sensor>
+	<Sensor type="camera" ip="172.16.11.145">
+		<id>Camera_YY_00000</id>
+		<name>Camera_YY_00000</name>
+		<supplier>caeri</supplier>
+		<port>554</port>
+		<usage>industrial</usage>    <!--   industrial or traffic   -->
+		<user>admin:caeri12345678</user>    <!--   user:password   -->
+		<detect_area>
+			<area_human>(0, 0), (0, 1), (1, 1), (1, 0)</area_human>   <!--   不填空着表示检测所以区域   -->
+			<area_vehicle>(206, 133), (489, 133), (506, 200), (0, 200)</area_vehicle>   <!--   不填空着表示检测所以区域   -->
+			<x_offset>75</x_offset>
+			<y_offset>65</y_offset>
+			<x2_offset>480</x2_offset>
+			<y2_offset>210</y2_offset>
+			<ratio>0.6</ratio>
+		</detect_area>
+		<life_circle>
+			<ini_life>0</ini_life>
+			<full_life>2</full_life>
+		</life_circle>
+	</Sensor>
+</location>
